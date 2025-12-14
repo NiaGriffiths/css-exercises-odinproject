@@ -1,0 +1,14 @@
+.picky,
+.spoilt{
+    font: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+.picky{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.spoilt{
+    background-color: yellow;
+}
